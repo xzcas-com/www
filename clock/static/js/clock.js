@@ -1,4 +1,3 @@
-  <script>
     function createCards(settings) {
       console.log(settings);
       const cards = [
@@ -131,4 +130,3 @@
         xhr.send();
     }
     begin();
-  </script>
